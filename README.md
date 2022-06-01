@@ -1,6 +1,7 @@
 ### Hello World 👋 🌎
 
-Email: Jonlee86.jl@gmail.com   	 	Click [here](https://www.linkedin.com/in/jonathan-lee-67044836/) to go to my LinkedIn profile. 	       
+Email: Jonlee86.jl@gmail.com   	 	
+Click [here](https://www.linkedin.com/in/jonathan-lee-67044836/) to go to my LinkedIn profile. 	       
 
 <!--
 **jonlee012/jonlee012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
