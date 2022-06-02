@@ -1,6 +1,7 @@
 ### Hello World 👋 🌎
 
-Email: Jonlee86.jl@gmail.com   	 	
+Email: Jonlee86.jl@gmail.com   	
+
 Click [here](https://www.linkedin.com/in/jonathan-lee-67044836/) to go to my LinkedIn profile. 	       
 
 
