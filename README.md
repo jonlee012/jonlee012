@@ -11,9 +11,6 @@ Click [here](https://www.linkedin.com/in/jonathan-lee-67044836/) to go to my Lin
 
 
 <!-- 
-
-
-
 -I’m currently working on: 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
