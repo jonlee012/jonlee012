@@ -10,8 +10,8 @@ Click [here](https://www.linkedin.com/in/jonathan-lee-67044836/) to go to my Lin
 </h3>
 <!-- Typing SVG by jonlee012 - https://github.com/jonlee012/jonlee012/blob/main/README.md -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://twitter.com/dohboyjon"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
