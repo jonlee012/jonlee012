@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by jonlee012 - https://github.com/jonlee012/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/jonlee012/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Passion%20for%20UI%2FUX%20Design;10+%2B%20years%20of%20entrepreneurship%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/jonlee012/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Passion%20for%20UI%2FUX%20Design;12%2B%20years%20of%20entrepreneurship%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <!-- Social icons section -->
