@@ -10,8 +10,6 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏   <img src="https://giphy.com/embed/67uAbocRzvxfnHFT9f" width="480" height="292" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/67uAbocRzvxfnHFT9f">via GIPHY</a></p>" width="28">
-" height="30em" align="center" alt="LAB" title="LAB"/>](https://la-burger.com) 
 - 🎓 Studied Master of Business Administration 𝚠𝚒𝚝𝚑 Marketing minor 𝚊𝚝 Southern Methodist University, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸1
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 
