@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://twitter.com/dohboyjon"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/jonlee012"><img width="32px" alt="Dev.to" title="LinkedIn" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
