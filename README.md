@@ -5,12 +5,11 @@
 
 <!-- Typing SVG by jonlee012 - https://github.com/jonlee012/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/jonlee012/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Passion%20for%20UI%2FUX%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/jonlee012/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Passion%20for%20UI%2FUX%20Development;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 Studied Master of Business Administration 𝚠𝚒𝚝𝚑 Marketing minor 𝚊𝚝 Southern Methodist University
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 
 <!-- Social icons section -->
