@@ -22,7 +22,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="25px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a>
+  <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="35px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
