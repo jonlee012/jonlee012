@@ -24,6 +24,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="35px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/dohboyjon/"><img width="35px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios_filled/512/facebook-new.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
