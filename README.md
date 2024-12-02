@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="35px" alt="Instagram" title="Instagram" src="https://i.imgur.com/v2vc2NV.png"></a>
+  <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="35px" alt="Instagram" title="Instagram" src="https://i.imgur.com/xgCrN5T.jpeg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
