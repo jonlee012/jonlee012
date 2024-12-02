@@ -18,8 +18,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-with-circle-icon 
-  2048x2048-np6yltn1.png"></a>
+  <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-with-circle-icon2048x2048-np6yltn1.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/dohboyjon"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios_filled/512/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
