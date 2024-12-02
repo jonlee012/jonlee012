@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://twitter.com/dohboyjon"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"></a>
+  <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="35px" alt="LinkedIn" title="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-with-circle-icon-2048x2048-np6yltn1.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/dohboyjon/?next=%2F"><img width="35px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
