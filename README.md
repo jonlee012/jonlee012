@@ -16,6 +16,16 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 
 
+
+
+
+
+
+
+
+
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-lee-67044836/"><img width="33px" alt="LinkedIn" title="LinkedIn" src="https://static-00.iconduck.com/assets.00/linkedin-with-circle-icon-2048x2048-np6yltn1.png"></a>
